@@ -1,5 +1,5 @@
 #!/bin/bash
 hostname
 date
-sleep 30
+sleep 20
 date
