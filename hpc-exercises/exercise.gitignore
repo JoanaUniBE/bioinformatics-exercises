@@ -2,3 +2,11 @@
 *.err
 *.txt
 slurm-*.out
+
+# FASTQ files (too large for Git)
+*.fastq.gz
+*.fq.gz
+
+# FastQC output
+*_fastqc.html
+*_fastqc.zip
